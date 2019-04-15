@@ -1,0 +1,31 @@
+
+# tsdemo - 
+A demo on learning how to author node modules with TypeScript.
+
+## Installation
+
+```bash
+	npm install tsdemo
+```
+## Usage
+
+### ES6/TypeScript
+```javascript
+	import { sayHello } from  "tsdemo"
+ 
+	let  greet  =  sayHello('Steve');
+	console.log(greet) // Prints Hello Steve!
+```
+
+### ES5
+```javascript
+	var sayHello = require("tsdemo").sayHello;
+ 
+	var  greet  =  sayHello('Steve');
+	console.log(greet) // Prints Hello Steve!
+```
+## Test
+
+```bash
+   npm test
+```
