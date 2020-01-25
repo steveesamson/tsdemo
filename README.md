@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/steveesamson/tsdemo.svg?branch=master)](https://travis-ci.com/steveesamson/tsdemo)
+![Travis (.org)](https://img.shields.io/travis/steveesamson/tsdemo?style=plastic)
 [![Coverage Status](https://coveralls.io/repos/github/steveesamson/tsdemo/badge.svg?branch=master)](https://coveralls.io/github/steveesamson/tsdemo?branch=master)
 
 # tsdemo -
